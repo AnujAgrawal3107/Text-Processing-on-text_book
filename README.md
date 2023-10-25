@@ -1,0 +1,1 @@
+# The aim of the project is to perform various natural language processing (NLP) and text analysis tasks on a book (Treasure Island) converted from PDF to text format using Python.
